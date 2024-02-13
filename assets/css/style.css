@@ -42,11 +42,11 @@
     }
     
     #info-left {
-        left: 400px;
+        left: 250px;
     }
     
     #info-right {
-        right: 400px;
+        right: 250px;
     }
     
     #name {
@@ -58,7 +58,7 @@
     .leaf {
         display: block;
         position: absolute;
-        width: 1000px; /* Adjust leaf size as needed */
+        width: 800px; /* Adjust leaf size as needed */
         height: auto; /* Adjust leaf size as needed */
     }
     
